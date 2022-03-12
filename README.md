@@ -1,0 +1,2 @@
+# python-remotedev-template
+Visual Studio CodeのRemote developmentを用いてDocker container上で作業するためのテンプレート
